@@ -1,0 +1,44 @@
+*{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    box-sizing: border-box;
+   
+
+    
+}
+table{
+    
+}
+th{
+
+}
+tbody{
+    
+    background-color: rgb(225, 219, 219);
+  
+}
+thead{
+
+background-color: aqua;
+
+
+
+}
+.second-th{
+   
+  
+}
+.second-td:nth-of-type(odd){
+    background-color: rgb(0, 255, 195);
+}
+.second-tr{
+   
+}
+.last-tr,
+.last-td{
+    background-color: aqua;
+    font-weight: bold;
+    
+}
